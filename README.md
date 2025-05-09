@@ -46,7 +46,8 @@ Clone this repository: https://github.com/Vuyokazi-Mjacu/matric-results-blog.git
 
 
 ## License
-This project is licensed under the MIT License — see the LICENSE file for details.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 
 
