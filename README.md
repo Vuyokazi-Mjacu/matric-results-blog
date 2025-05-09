@@ -9,7 +9,7 @@ A simple, responsive blog website focused on providing insightful commentary on 
 - 3.Technologies Used
 - 4.Installation
 - 5.Usage
-- 6. live demo
+- 6.live demo
 - 7.License
 
 ## Project Overview
@@ -42,7 +42,7 @@ The blog is built with HTML, CSS, and JavaScript to provide a clean, responsive,
 Clone this repository: https://github.com/Vuyokazi-Mjacu/matric-results-blog.git
 
 ## Live Demo
-[Visit the live project here](https://username.github.io/repository-name)
+[Visit the live project here](https://vuyokazi-mjacu.github.io/matric-results-blog/)
 
 
 ## License
