@@ -9,7 +9,7 @@ A simple, responsive blog website focused on providing insightful commentary on 
 - 3.Technologies Used
 - 4.Installation
 - 5.Usage
-- 6.Contributing
+- 6. live demo
 - 7.License
 
 ## Project Overview
@@ -39,17 +39,17 @@ The blog is built with HTML, CSS, and JavaScript to provide a clean, responsive,
 
 ## Installation
 
-Clone this repository:
-
-## bash
-git clone https://github.com/username/matric-results-blog.git
-
-## License
-
-
+Clone this repository: https://github.com/Vuyokazi-Mjacu/matric-results-blog.git
 
 ## Live Demo
 [Visit the live project here](https://username.github.io/repository-name)
+
+
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+
+
 
 
 
